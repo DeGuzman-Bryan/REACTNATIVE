@@ -35,7 +35,7 @@ const mystyles = StyleSheet.create({
   },
 
   box3:{ 
-    backgroundColor:'green', 
+    backgroundColor:'red', 
     width:100, 
     height:100 
   }
